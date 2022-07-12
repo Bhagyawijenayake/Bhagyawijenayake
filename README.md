@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/z/video-game-development-minimal-infographic-banner-vector-web-coding-design-developing-phone-app-site-illustration-192914004.jpg)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Bhagya Wijenayke</h1>
 <h3 align="center">A passionate Game developer from Sri Lanka</h3>
