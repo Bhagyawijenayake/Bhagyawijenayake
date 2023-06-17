@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/bsudaraka" target="blank"><img src="https://img.shields.io/twitter/follow/bsudaraka?logo=twitter&style=for-the-badge" alt="bsudaraka" /></a> </p>
 
-- 🌱 I’m currently learning **Unity and C#**
+- 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [https://medium.com/@bhagyasudaraka98](https://medium.com/@bhagyasudaraka98)
 
-- 💬 Ask me about **Game dev**
+- 💬 Ask me about **Fronend dev**
 
 - 📫 How to reach me **bhagyasudaraka98@gmail.com**
 
